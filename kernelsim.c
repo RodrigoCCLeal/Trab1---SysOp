@@ -2,6 +2,7 @@
  * Trabalho 1 - INF1316 - Sistemas Operacionais
  *
  * Rodrigo Carvalho       2510091
+ * Carlos Frederico Sant'ana 2511920
  *
  * kernelsim.c: KernelSim, o nucleo simulado.
  *

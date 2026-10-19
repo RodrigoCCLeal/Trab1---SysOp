@@ -3,6 +3,7 @@
  * Simulando o escalonamento preemptivo de processos com chamadas de sistema
  *
  * Rodrigo Carvalho       2510091
+ * Carlos Frederico Sant'ana 2511920
  *
  * comum.h: definicoes compartilhadas por KernelSim, InterControllerSim e
  * pelos processos de aplicacao.
